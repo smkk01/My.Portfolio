@@ -61,9 +61,9 @@
     "title": "Nibble",
     "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment through Azure Service Bus.",
     "image": "nibble",
-    "technologies": ["Microservices","Azure Service Bus","Payment Ga"],
-    "categories": ["AzureDevOps", "APP.Net CORE","Ms SQL"],
-    "github": "https://github.com/smkk01/azuredevops.git",
+    "technologies": ["Microservices","Azure Service Bus","Payment Gateway"],
+    "categories": ["AzureDevOps", "APP.Net CORE","Ms SQL","Stripe"],
+    "github": "https://github.com/smkk01/EcommenceModule-Microservices.git",
     "live": "",
     "featured": true
   },
@@ -86,7 +86,7 @@
     "image": "logitrack",
     "technologies": ["ASP.NET Core", "Web API", ".NET 8","SQLite"],
     "categories": ["JWT", "Optimization","Catching", "Entity Framework "],
-    "github": "https://github.com/smkk01/LogiTrack.git",
+    "github": "https://github.com/smkk01/InventoryHub.git",
     "live": "",
     "featured": true
   },
