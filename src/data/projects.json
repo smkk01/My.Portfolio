@@ -31,19 +31,7 @@
     "github": "https://github.com/smkk01/azuredevops.git",
     "live": "",
     "featured": true
-  },
-  
-  {
-    "id": "airline-booking",
-    "title": "Airline Booking System",
-    "description": "An airline booking system built around .NET microservices and RabbitMQ messaging.",
-    "image": "airline",
-    "technologies": ["Microservices", "RabbitMQ", ".NET"],
-    "categories": ["Microservices", ".NET"],
-    "github": "https://github.com/smkk01/AirlineBookingSystem.git",
-    "live": "",
-    "featured": true
-  },
+  },  
 
   {
     "id": "pos-report",
@@ -56,7 +44,17 @@
     "live": "",
     "featured": true
   },
-
+  {
+    "id": "airline-booking",
+    "title": "Airline Booking System",
+    "description": "An airline booking system built around .NET microservices and RabbitMQ messaging.",
+    "image": "airline",
+    "technologies": ["Microservices", "RabbitMQ", ".NET"],
+    "categories": ["Microservices", ".NET"],
+    "github": "https://github.com/smkk01/AirlineBookingSystem.git",
+    "live": "",
+    "featured": true
+  },
 
   {
     "id": "nibble.web",
