@@ -18,7 +18,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg sticky-top site-navbar">
       <div className="container-narrow">
         <NavLink className="navbar-brand fw-bold" to="/" aria-label={`${profile.name} home`}>
-          <span className="brand-mark">S</span> Sumon<span className="text-primary">.</span>
+          <span className="brand-mark">S</span> Su Mon<span className="text-primary">.</span>
         </NavLink>
         <button className="navbar-toggler" type="button" aria-controls="portfolioNav" aria-expanded={expanded} onClick={() => setExpanded((isExpanded) => !isExpanded)} aria-label="Toggle navigation">
           <span className="navbar-toggler-icon" />
