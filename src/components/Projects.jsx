@@ -3,6 +3,7 @@ import { useEffect } from 'react'
 import projects from '../data/projects.json'
 import { refreshAnimations } from '../services/animations.js'
 import storeImage from '../assets/images/project-store.svg'
+import eventEaseImage from '../assets/images/project-event-ease.svg'
 import mangoImage from '../assets/images/project-mango.svg'
 import eshopImage from '../assets/images/project-eshop.svg'
 import microservicesImage from '../assets/images/project-microservices.svg'
@@ -12,6 +13,7 @@ import inventoryImage from '../assets/images/project-inventory.svg'
 
 const images = {
   store: storeImage,
+  'event-ease': eventEaseImage,
   mango: mangoImage,
   eshop: eshopImage,
   microservices: microservicesImage,

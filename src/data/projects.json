@@ -33,10 +33,10 @@
     "featured": true
   },
   {
-    "id": "mango.web",
-    "title": "Mango Web",
+    "id": "nibble.web",
+    "title": "Nibble",
     "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment and Email microservices with SQL Server communicating over Azure Service Bus.",
-    "image": "mango",
+    "image": "nibble",
     "technologies": ["ASP.NET Core", "Microservices"],
     "categories": ["Azure", "APP.Net CORE","Ms SQL"],
     "github": "https://github.com/smkk01/azuredevops.git",
@@ -51,6 +51,17 @@
     "technologies": ["Microservices", "RabbitMQ", ".NET"],
     "categories": ["Microservices", ".NET"],
     "github": "https://github.com/smkk01/AirlineBookingSystem.git",
+    "live": "",
+    "featured": true
+  },
+  {
+    "id": "event-ease",
+    "title": "Event Ease",
+    "description": "EventEase is a browser-based event management app built with Blazor WebAssembly and .NET 8. Browse events, create and edit event details, register attendees, and record attendance with check-in.",
+    "image": "event-ease",
+    "technologies": ["Blazor WebAssembly", ".NET 8"],
+    "categories": ["Blazor", ".NET"],
+    "github": "https://github.com/smkk01/EventEase.git",
     "live": "",
     "featured": true
   },
