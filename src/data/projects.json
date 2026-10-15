@@ -1,7 +1,7 @@
 [
   {
     "id": "best-store",
-    "title": "E-Commerce Full Stack Application",
+    "title": "Best Store of Electronic",
     "description": "A full-stack e-commerce application with a product catalog, shopping cart, and CRUD workflows.",
     "image": "store",
     "technologies": ["ASP.NET Core", "React", "SQL Server"],
@@ -15,8 +15,8 @@
     "title": "E-Shop",
     "description": "An e-shop project. Further implementation details are available in the source repository.",
     "image": "eshop",
-    "technologies": [],
-    "categories": [],
+    "technologies": ["Microservices", "CICD", "Docker","DEVOPS","Azure"],
+    "categories": ["Full Stack","Angular","RabbitMQ","APP.Net CORE"],
     "github": "https://github.com/smkk01/E-Shop.git",
     "live": "",
     "featured": true
@@ -28,6 +28,17 @@
     "image": "microservices",
     "technologies": ["Microservices"],
     "categories": ["Microservices", "Cloud"],
+    "github": "https://github.com/smkk01/azuredevops.git",
+    "live": "",
+    "featured": true
+  },
+  {
+    "id": "mango.web",
+    "title": "Mango Web",
+    "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment and Email microservices with SQL Server communicating over Azure Service Bus.",
+    "image": "mango",
+    "technologies": ["ASP.NET Core", "Microservices"],
+    "categories": ["Azure", "APP.Net CORE","Ms SQL"],
     "github": "https://github.com/smkk01/azuredevops.git",
     "live": "",
     "featured": true
