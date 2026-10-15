@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Khin Khin Su Mon — Senior Software Developer</title>
+  <desc id="description">Portfolio featuring enterprise software, web applications, and cloud engineering experience.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0d6efd"/>
+      <stop offset="1" stop-color="#153c75"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#20c997" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <circle cx="1050" cy="90" r="280" fill="url(#accent)"/>
+  <circle cx="1080" cy="600" r="240" fill="#20c997" opacity=".24"/>
+  <rect x="84" y="92" width="78" height="78" rx="22" fill="#ffffff"/>
+  <text x="123" y="149" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#0d6efd">S</text>
+  <text x="84" y="285" font-family="Arial, sans-serif" font-size="68" font-weight="700" fill="#ffffff">Khin Khin Su Mon</text>
+  <text x="87" y="357" font-family="Arial, sans-serif" font-size="36" fill="#dceaff">Senior Software Developer</text>
+  <text x="87" y="430" font-family="Arial, sans-serif" font-size="24" fill="#ffffff">20+ years building enterprise software, web and cloud solutions</text>
+  <rect x="87" y="484" width="112" height="5" rx="2.5" fill="#20c997"/>
+  <text x="87" y="544" font-family="Arial, sans-serif" font-size="21" fill="#dceaff">smkk01.github.io/My.Portfolio</text>
+</svg>
