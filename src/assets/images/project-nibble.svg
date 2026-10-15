@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">Mango Web e-commerce microservices illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff3df"/><stop offset="1" stop-color="#ffe2c2"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#bg)"/><circle cx="790" cy="105" r="130" fill="#fff" opacity=".35"/>
+  <rect x="95" y="65" width="770" height="410" rx="28" fill="#fff"/>
+  <rect x="130" y="98" width="700" height="48" rx="14" fill="#fff6eb"/><circle cx="161" cy="122" r="10" fill="#f4a340"/><rect x="190" y="113" width="190" height="17" rx="8" fill="#92521d"/><path d="M764 112h26v21h-26zM758 107h8l4 5h20" fill="none" stroke="#e58a28" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="130" y="174" width="225" height="252" rx="18" fill="#fff0db"/><path d="M186 241h104l-11 105h-82z" fill="#f7b34f"/><path d="M177 226h123l-6 20H183zM208 229c0-21 11-35 30-35s30 14 30 35" fill="none" stroke="#96541c" stroke-width="8" stroke-linecap="round"/><circle cx="211" cy="361" r="11" fill="#96541c"/><circle cx="265" cy="361" r="11" fill="#96541c"/><rect x="169" y="391" width="147" height="16" rx="8" fill="#f1ce9e"/>
+  <rect x="390" y="174" width="190" height="105" rx="16" fill="#fff8ef"/><rect x="610" y="174" width="190" height="105" rx="16" fill="#fff8ef"/><rect x="390" y="300" width="190" height="105" rx="16" fill="#fff8ef"/><rect x="610" y="300" width="190" height="105" rx="16" fill="#fff8ef"/>
+  <circle cx="424" cy="210" r="13" fill="#f2a23b"/><circle cx="644" cy="210" r="13" fill="#69a8dc"/><circle cx="424" cy="336" r="13" fill="#65b98d"/><circle cx="644" cy="336" r="13" fill="#a58adb"/>
+  <text x="481" y="216" fill="#49351e" font-size="17" font-family="Arial">Products</text><text x="701" y="216" fill="#49351e" font-size="17" font-family="Arial">Shopping cart</text><text x="481" y="342" fill="#49351e" font-size="17" font-family="Arial">Orders</text><text x="701" y="342" fill="#49351e" font-size="17" font-family="Arial">Payments</text>
+  <path d="M484 279v21M704 279v21M580 226h30M580 352h30" stroke="#d9a56c" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 8"/>
+  <rect x="417" y="430" width="354" height="28" rx="14" fill="#fff0db"/><path d="M444 444h24M476 444h24M508 444h24" stroke="#d98a2b" stroke-width="5" stroke-linecap="round"/><text x="650" y="450" text-anchor="middle" fill="#815024" font-size="15" font-family="Arial">Azure Service Bus</text>
+</svg>
