@@ -9,6 +9,7 @@ import nibbleImage from '../assets/images/project-nibble.svg'
 import safeVaultImage from '../assets/images/project-safevault.svg'
 import logiTrackImage from '../assets/images/project-logitrack.svg'
 import posReportImage from '../assets/images/project-pos-report.svg'
+import productsDashboardImage from '../assets/images/project-products-dashboard.svg'
 import eshopImage from '../assets/images/project-eshop.svg'
 import microservicesImage from '../assets/images/project-microservices.svg'
 import airlineImage from '../assets/images/project-airline.svg'
@@ -23,6 +24,7 @@ const images = {
   'safe-vault': safeVaultImage,
   logitrack: logiTrackImage,
   'pos-report': posReportImage,
+  'products-dashboard': productsDashboardImage,
   eshop: eshopImage,
   microservices: microservicesImage,
   airline: airlineImage,

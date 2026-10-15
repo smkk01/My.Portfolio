@@ -36,10 +36,10 @@
   {
     "id": "pos-report",
     "title": "POS Report",
-    "description": "A serverless AWS service that accepts aircraft position (POS) reports, stores the original message, parses it into a structured record, estimates remaining flight time and arrival fuel, and lets callers look up the latest processing result.",
+    "description": "A serverless AWS service that manages aircraft position (POS) reports,calculates remaining flight time and arrival fuel and provides the latest processing result.",
     "image": "pos-report",
-    "technologies": ["AWS", "APIGateway", "Lambda", "S3","DYNAMODB"],
-    "categories": ["AWS SERVERLESS", "AWSCDK","Node.js", "GitHub Actions"],
+    "technologies": ["Node.js", "AWSCDK", "Lambda", "S3","DYNAMODB"],
+    "categories": ["AWS SERVERLESS", "CloudFormation", "GitHub Actions"],
     "github": "https://github.com/smkk01/POSReport.git",
     "live": "",
     "featured": true
@@ -98,6 +98,17 @@
     "technologies": ["HTML", ".NET 8"],
     "categories": ["Blazor", ".NET"],
     "github": "https://github.com/smkk01/SafeVault.git",
+    "live": "",
+    "featured": true
+  },
+   {
+    "id": "productinfo",
+    "title": "Products Dashboard",
+    "description": "A React and .NET product CRUD app deployed on AWS with Amplify Hosting",
+    "image": "products-dashboard",
+    "technologies": ["AWSCDK", "DYNAMODB", "Amplify", "API Gateway", "Lambda", "Cognito"],
+    "categories": ["AWS", "React", ".NET"],
+    "github": "https://github.com/smkk01/CrudApp.git",
     "live": "",
     "featured": true
   },
