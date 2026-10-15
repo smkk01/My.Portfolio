@@ -2,9 +2,66 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>my.portfolio</title>
+    <title>Khin Khin Su Mon | Senior Software Developer</title>
+    <meta name="author" content="Khin Khin Su Mon" />
+    <meta name="theme-color" content="#0d6efd" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="description" content="Portfolio of Khin Khin Su Mon, Senior Software Developer with more than 20 years of enterprise software experience." />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href="https://smkk01.github.io/portfolio/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Khin Khin Su Mon Portfolio" />
+    <meta property="og:title" content="Khin Khin Su Mon | Senior Software Developer" />
+    <meta property="og:description" content="Enterprise software, web applications, mobile solutions, and cloud engineering." />
+    <meta property="og:url" content="https://smkk01.github.io/portfolio/" />
+    <meta property="og:image" content="https://smkk01.github.io/portfolio/og-image.svg" />
+    <meta property="og:image:alt" content="Khin Khin Su Mon, Senior Software Developer" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Khin Khin Su Mon | Senior Software Developer" />
+    <meta name="twitter:description" content="Enterprise software, web applications, mobile solutions, and cloud engineering." />
+    <meta name="twitter:image" content="https://smkk01.github.io/portfolio/og-image.svg" />
+    <script>
+      try {
+        const savedTheme = localStorage.getItem('portfolio-theme')
+        const theme = savedTheme === 'light' || savedTheme === 'dark'
+          ? savedTheme
+          : (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+        document.documentElement.dataset.theme = theme
+        document.documentElement.dataset.bsTheme = theme
+      } catch {
+        const theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        document.documentElement.dataset.theme = theme
+        document.documentElement.dataset.bsTheme = theme
+      }
+      document.querySelector('meta[name="theme-color"]').content =
+        document.documentElement.dataset.theme === 'dark' ? '#12161c' : '#0d6efd'
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Khin Khin Su Mon",
+        "jobTitle": "Senior Software Developer",
+        "email": "sumonkk@gmail.com",
+        "telephone": "+65 98572579",
+        "image": "https://smkk01.github.io/portfolio/og-image.svg",
+        "address": { "@type": "PostalAddress", "addressCountry": "Myanmar" },
+        "url": "https://smkk01.github.io/portfolio/",
+        "knowsAbout": [
+          "C#", ".NET", "ASP.NET Core", "Web API", "React", "Angular",
+          "SQL Server", "Oracle", "MySQL", "Microsoft Azure", "AWS",
+          "Microservices", "Docker", "Kubernetes", "RabbitMQ", "CI/CD"
+        ],
+        "sameAs": [
+          "https://www.linkedin.com/in/khin-khin-su-mon-702a08b6/",
+          "https://github.com/smkk01"
+        ]
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>

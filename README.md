@@ -1,16 +1,33 @@
-# React + Vite
+# Khin Khin Su Mon — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React 18 portfolio built with Vite, Bootstrap 5, React Router, React Hook Form, and AOS. The site is a static GitHub Pages deployment; portfolio content is maintained in JSON and contact form submissions are stored only in the visitor's browser.
 
-Currently, two official plugins are available:
+## Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```sh
+npm ci
+npm run dev
+```
 
-## React Compiler
+Run `npm run lint` and `npm run build` to check the production app locally. `npm run preview` serves the built site.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Content and folders
 
-## Expanding the ESLint configuration
+- `src/data/profile.json` — identity, biography, contact links, education, statistics, and highlights.
+- `src/data/skills.json` — proficiency values and skill categories.
+- `src/data/experience.json` — work history. Dates not supplied in the requirements are intentionally identified as not provided.
+- `src/data/projects.json` — project descriptions, technologies, categories, links, and local illustrations.
+- `src/components/` — shared navigation, content, theme, and contact components.
+- `src/pages/` — lazily loaded HashRouter routes.
+- `src/hooks/` and `src/services/` — theme and page metadata hooks, and local contact-message storage.
+- `src/assets/images/` and `src/assets/resume/` — project artwork and downloadable résumé.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Contact messages are stored under `portfolio-contact-messages` in local storage and are not sent to a server.
+
+## GitHub Pages
+
+The Vite base path and `HashRouter` are configured for `https://smkk01.github.io/portfolio/`. The GitHub Actions workflow runs lint and a production build for pull requests; pushes to `main` and manual workflow runs publish that verified build to the `gh-pages` branch. The repository's GitHub Pages setting must use the `gh-pages` branch and `/ (root)` folder. To deploy manually, run:
+
+```sh
+npm run deploy
+```

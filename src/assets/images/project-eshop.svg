@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">E-shop application illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8e7ff"/><stop offset="1" stop-color="#f4e8ff"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#bg)"/><circle cx="770" cy="100" r="130" fill="#fff" opacity=".3"/><rect x="125" y="72" width="710" height="396" rx="28" fill="#fff"/>
+  <rect x="162" y="110" width="636" height="52" rx="14" fill="#f7f6ff"/><rect x="186" y="128" width="190" height="15" rx="7" fill="#322c6b"/><circle cx="743" cy="136" r="12" fill="#8c72ee"/>
+  <rect x="162" y="194" width="190" height="225" rx="17" fill="#efeaff"/><rect x="385" y="194" width="190" height="225" rx="17" fill="#f7efff"/><rect x="608" y="194" width="190" height="225" rx="17" fill="#edf2ff"/>
+  <circle cx="257" cy="280" r="43" fill="#b7a7ff"/><path d="M215 337h84l16 38h-116z" fill="#8d77ed"/><rect x="408" y="300" width="144" height="11" rx="5" fill="#aaa2c2"/><rect x="408" y="324" width="100" height="11" rx="5" fill="#d2cce1"/>
+  <path d="M683 245l42 28-12 72h-60l-12-72z" fill="#88aaff"/><rect x="410" y="365" width="115" height="28" rx="10" fill="#7155db"/><rect x="633" y="365" width="140" height="28" rx="10" fill="#5483ee"/>
+</svg>

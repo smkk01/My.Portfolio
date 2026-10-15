@@ -1,0 +1,51 @@
+{
+  "name": "Khin Khin Su Mon",
+  "title": "Senior Software Developer",
+  "location": "Myanmar",
+  "email": "sumonkk@gmail.com",
+  "phone": "+65 98572579",
+  "summary": "Results-driven software developer with more than 20 years of experience building enterprise software, web and mobile applications, and cloud solutions. Experienced across finance, travel, inventory, ERP, CRM, HR, and e-commerce domains, with a strong focus on reliable delivery across the full software development lifecycle.",
+  "typingTitles": [
+    "Senior Software Developer",
+    ".NET Developer",
+    "React Developer",
+    "Cloud Enthusiast"
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/khin-khin-su-mon-702a08b6/",
+    "github": "https://github.com/smkk01"
+  },
+  "resume": "Khin-Khin-Su-Mon-Resume.pdf",
+  "statistics": [
+    { "value": 20, "suffix": "+", "label": "Years experience", "icon": "bi-briefcase" },
+    { "value": 10, "suffix": "+", "label": "Companies", "icon": "bi-buildings" },
+    { "value": 50, "suffix": "+", "label": "Projects", "icon": "bi-kanban" },
+    { "value": "Multiple", "label": "Technologies", "icon": "bi-code-slash" }
+  ],
+  "careerHighlights": [
+    "More than 20 years of software development experience.",
+    "Enterprise application delivery across finance, travel, inventory, ERP, CRM, HR, and e-commerce.",
+    "Hands-on experience with cloud platforms, microservices, and distributed application technologies.",
+    "Experience spanning analysis, design, implementation, testing, deployment, and support.",
+    "Team leadership and full software development lifecycle experience."
+  ],
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "qualification": "Graduate Diploma in Systems Analysis",
+      "major": "Advanced Web"
+    },
+    {
+      "institution": "University of Computer Studies, Mandalay",
+      "qualification": "Bachelor of Computer Science"
+    }
+  ],
+  "focusAreas": [
+    { "title": "Backend development", "icon": "bi-braces", "description": "Enterprise application and API development with the .NET ecosystem." },
+    { "title": "Frontend development", "icon": "bi-window", "description": "Responsive web experiences using modern JavaScript frameworks." },
+    { "title": "Cloud technologies", "icon": "bi-cloud", "description": "Cloud solution delivery with Microsoft Azure and AWS." },
+    { "title": "Databases", "icon": "bi-database", "description": "Relational and NoSQL data platforms for business applications." },
+    { "title": "DevOps", "icon": "bi-infinity", "description": "Source control, delivery pipelines, containers, and collaboration." },
+    { "title": "Microservices", "icon": "bi-diagram-3", "description": "Service-based application design and message-driven integration." }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "company": "Corporate Travel Services",
+    "role": "Software Developer",
+    "period": "Aug 2018 – Feb 2024",
+    "location": "",
+    "featured": true,
+    "achievements": [
+      "Developed financial reporting systems.",
+      "Built ETL Windows Services for business data processing.",
+      "Implemented XML data processing solutions.",
+      "Developed an Outlook encryption add-in.",
+      "Delivered travel booking reporting systems."
+    ],
+    "technologies": ["C#", "Oracle", "SQL Server", "XML"]
+  },
+  {
+    "company": "Biz-Era.Net",
+    "role": "Application Developer",
+    "period": "Dates not provided",
+    "location": "",
+    "featured": false,
+    "achievements": [
+      "Contributed to a workflow management system.",
+      "Built mobile and web applications.",
+      "Led work across the full software development lifecycle."
+    ],
+    "technologies": []
+  },
+  {
+    "company": "Global Foundries",
+    "role": "Software Programmer",
+    "period": "Dates not provided",
+    "location": "",
+    "featured": false,
+    "achievements": [
+      "Developed a housekeeping management module.",
+      "Delivered document management solutions."
+    ],
+    "technologies": []
+  },
+  {
+    "company": "JOS Applications",
+    "role": "Associate Consultant",
+    "period": "Dates not provided",
+    "location": "",
+    "featured": false,
+    "achievements": [
+      "Worked on an HR Core System.",
+      "Delivered an E-Leave Management System."
+    ],
+    "technologies": []
+  },
+  {
+    "company": "Keppel Land",
+    "role": "Web Application Developer",
+    "period": "Dates not provided",
+    "location": "",
+    "featured": false,
+    "achievements": [
+      "Developed a Mall Information Management System.",
+      "Built reporting solutions."
+    ],
+    "technologies": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "best-store",
+    "title": "E-Commerce Full Stack Application",
+    "description": "A full-stack e-commerce application with a product catalog, shopping cart, and CRUD workflows.",
+    "image": "store",
+    "technologies": ["ASP.NET Core", "React", "SQL Server"],
+    "categories": [".NET", "React"],
+    "github": "https://github.com/smkk01/best-store",
+    "live": "https://smkk01.github.io/best-store/",
+    "featured": true
+  },
+  {
+    "id": "e-shop",
+    "title": "E-Shop",
+    "description": "An e-shop project. Further implementation details are available in the source repository.",
+    "image": "eshop",
+    "technologies": [],
+    "categories": [],
+    "github": "https://github.com/smkk01/E-Shop.git",
+    "live": "",
+    "featured": true
+  },
+  {
+    "id": "shopping-microservices",
+    "title": "Shopping Microservices",
+    "description": "A shopping-focused microservices project demonstrating a service-oriented application approach.",
+    "image": "microservices",
+    "technologies": ["Microservices"],
+    "categories": ["Microservices", "Cloud"],
+    "github": "https://github.com/smkk01/azuredevops.git",
+    "live": "",
+    "featured": true
+  },
+  {
+    "id": "airline-booking",
+    "title": "Airline Booking System",
+    "description": "An airline booking system built around .NET microservices and RabbitMQ messaging.",
+    "image": "airline",
+    "technologies": ["Microservices", "RabbitMQ", ".NET"],
+    "categories": ["Microservices", ".NET"],
+    "github": "https://github.com/smkk01/AirlineBookingSystem.git",
+    "live": "",
+    "featured": true
+  },
+  {
+    "id": "student-management",
+    "title": "Student Management System",
+    "description": "A student management application with a React user interface connected to a Web API.",
+    "image": "students",
+    "technologies": ["React", "Web API"],
+    "categories": ["React", ".NET"],
+    "github": "https://github.com/smkk01/StudentsUI-main",
+    "live": "",
+    "featured": false
+  },
+  {
+    "id": "inventory-management",
+    "title": "Inventory Management System",
+    "description": "An inventory management application with an Angular frontend and Web API integration.",
+    "image": "inventory",
+    "technologies": ["Angular", "Web API"],
+    "categories": ["Angular", ".NET"],
+    "github": "https://github.com/smkk01/StockInventoryApp",
+    "live": "",
+    "featured": false
+  }
+]

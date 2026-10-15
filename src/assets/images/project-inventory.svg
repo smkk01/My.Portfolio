@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">Inventory management application illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e4f7ee"/><stop offset="1" stop-color="#e4f2ff"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#bg)"/><rect x="138" y="75" width="684" height="390" rx="24" fill="#fff"/>
+  <text x="184" y="130" fill="#21384d" font-size="25" font-family="Arial">Inventory overview</text><rect x="677" y="101" width="105" height="37" rx="11" fill="#20a87f"/>
+  <rect x="180" y="165" width="187" height="92" rx="15" fill="#eef9f4"/><rect x="387" y="165" width="187" height="92" rx="15" fill="#eef5ff"/><rect x="594" y="165" width="188" height="92" rx="15" fill="#fff7e8"/>
+  <text x="203" y="196" fill="#6a7e8f" font-size="14" font-family="Arial">TOTAL ITEMS</text><text x="203" y="235" fill="#1d765a" font-size="27" font-family="Arial">1,248</text>
+  <text x="410" y="196" fill="#6a7e8f" font-size="14" font-family="Arial">IN STOCK</text><text x="410" y="235" fill="#2767bb" font-size="27" font-family="Arial">1,105</text>
+  <text x="617" y="196" fill="#6a7e8f" font-size="14" font-family="Arial">LOW STOCK</text><text x="617" y="235" fill="#b47717" font-size="27" font-family="Arial">23</text>
+  <rect x="180" y="285" width="602" height="42" rx="9" fill="#f5f7fa"/><rect x="180" y="340" width="602" height="42" rx="9" fill="#fff"/><rect x="180" y="395" width="602" height="42" rx="9" fill="#f5f7fa"/>
+  <g fill="#8291a3"><circle cx="208" cy="306" r="8"/><circle cx="208" cy="361" r="8"/><circle cx="208" cy="416" r="8"/></g>
+  <g fill="#41556c"><rect x="232" y="300" width="145" height="11" rx="5"/><rect x="232" y="355" width="145" height="11" rx="5"/><rect x="232" y="410" width="145" height="11" rx="5"/></g>
+</svg>
