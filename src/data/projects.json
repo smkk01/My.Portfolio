@@ -75,7 +75,7 @@
     "technologies": ["Blazor WebAssembly", ".NET 8"],
     "categories": ["Blazor", ".NET"],
     "github": "https://github.com/smkk01/EventEase.git",
-    "live": "",
+    "live": "https://smkk01.github.io/EventEase/",
     "featured": true
   },
 
