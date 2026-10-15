@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig(({ command, mode }) => ({
-  base: command === 'serve' && mode === 'development' ? '/' : '/portfolio/',
+  base: command === 'serve' && mode === 'development' ? '/' : '/My.Portfolio/',
   plugins: [react()],
 }))

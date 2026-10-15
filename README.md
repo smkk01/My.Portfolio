@@ -26,7 +26,7 @@ Contact messages are stored under `portfolio-contact-messages` in local storage 
 
 ## GitHub Pages
 
-The Vite base path and `HashRouter` are configured for `https://smkk01.github.io/portfolio/`. The GitHub Actions workflow runs lint and a production build for pull requests; pushes to `main` and manual workflow runs publish that verified build to the `gh-pages` branch. The repository's GitHub Pages setting must use the `gh-pages` branch and `/ (root)` folder. To deploy manually, run:
+The Vite base path and `HashRouter` are configured for `https://smkk01.github.io/My.Portfolio/`. The GitHub Actions workflow runs lint and a production build for pull requests; pushes to `main` and manual workflow runs publish that verified build to the `gh-pages` branch. The repository's GitHub Pages setting must use the `gh-pages` branch and `/ (root)` folder. To deploy manually, run:
 
 ```sh
 npm run deploy

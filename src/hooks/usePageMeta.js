@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 
-const baseUrl = 'https://smkk01.github.io/portfolio/'
+const baseUrl = 'https://smkk01.github.io/My.Portfolio/'
 
 function updateMeta(selector, attribute, value) {
   const element = document.querySelector(selector)
