@@ -44,13 +44,27 @@
     "live": "",
     "featured": true
   },
+
+  {
+    "id": "pos-report",
+    "title": "POS Report",
+    "description": "A serverless AWS service that accepts aircraft position (POS) reports, stores the original message, parses it into a structured record, estimates remaining flight time and arrival fuel, and lets callers look up the latest processing result.",
+    "image": "pos-report",
+    "technologies": ["AWS", "APIGateway", "Lambda", "S3","DYNAMODB"],
+    "categories": ["AWS SERVERLESS", "AWSCDK","Node.js", "GitHub Actions"],
+    "github": "https://github.com/smkk01/POSReport.git",
+    "live": "",
+    "featured": true
+  },
+
+
   {
     "id": "nibble.web",
     "title": "Nibble",
     "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment through Azure Service Bus.",
     "image": "nibble",
     "technologies": ["Microservices","Azure Service Bus","Payment Ga"],
-    "categories": ["Azure", "APP.Net CORE","Ms SQL"],
+    "categories": ["AzureDevOps", "APP.Net CORE","Ms SQL"],
     "github": "https://github.com/smkk01/azuredevops.git",
     "live": "",
     "featured": true
