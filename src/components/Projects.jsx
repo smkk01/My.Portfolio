@@ -7,6 +7,7 @@ import eventEaseImage from '../assets/images/project-event-ease.svg'
 import mangoImage from '../assets/images/project-mango.svg'
 import nibbleImage from '../assets/images/project-nibble.svg'
 import safeVaultImage from '../assets/images/project-safevault.svg'
+import logiTrackImage from '../assets/images/project-logitrack.svg'
 import eshopImage from '../assets/images/project-eshop.svg'
 import microservicesImage from '../assets/images/project-microservices.svg'
 import airlineImage from '../assets/images/project-airline.svg'
@@ -19,6 +20,7 @@ const images = {
   mango: mangoImage,
   nibble: nibbleImage,
   'safe-vault': safeVaultImage,
+  logitrack: logiTrackImage,
   eshop: eshopImage,
   microservices: microservicesImage,
   airline: airlineImage,

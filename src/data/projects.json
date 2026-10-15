@@ -66,6 +66,18 @@
     "live": "",
     "featured": true
   },
+
+   {
+    "id": "logitrack",
+    "title": "LogiTrack",
+    "description": "LogiTrack is a logistics software platform designed to manage inventory items and customer orders across multiple fulfillment centers.",
+    "image": "logitrack",
+    "technologies": ["ASP.NET Core", "Web API", ".NET 8","SQLite"],
+    "categories": ["JWT", "Optimization","Catching", "Entity Framework "],
+    "github": "https://github.com/smkk01/LogiTrack.git",
+    "live": "",
+    "featured": true
+  },
   {
     "id": "safe-vault",
     "title": "SafeVault",
