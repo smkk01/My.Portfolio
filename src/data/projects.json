@@ -32,17 +32,7 @@
     "live": "",
     "featured": true
   },
-  {
-    "id": "nibble.web",
-    "title": "Nibble",
-    "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment and Email microservices with SQL Server communicating over Azure Service Bus.",
-    "image": "nibble",
-    "technologies": ["ASP.NET Core", "Microservices"],
-    "categories": ["Azure", "APP.Net CORE","Ms SQL"],
-    "github": "https://github.com/smkk01/azuredevops.git",
-    "live": "",
-    "featured": true
-  },
+  
   {
     "id": "airline-booking",
     "title": "Airline Booking System",
@@ -51,6 +41,17 @@
     "technologies": ["Microservices", "RabbitMQ", ".NET"],
     "categories": ["Microservices", ".NET"],
     "github": "https://github.com/smkk01/AirlineBookingSystem.git",
+    "live": "",
+    "featured": true
+  },
+  {
+    "id": "nibble.web",
+    "title": "Nibble",
+    "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment and Email microservices with SQL Server communicating over Azure Service Bus.",
+    "image": "nibble",
+    "technologies": ["ASP.NET Core", "Microservices"],
+    "categories": ["Azure", "APP.Net CORE","Ms SQL"],
+    "github": "https://github.com/smkk01/azuredevops.git",
     "live": "",
     "featured": true
   },

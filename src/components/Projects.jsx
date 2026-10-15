@@ -5,6 +5,7 @@ import { refreshAnimations } from '../services/animations.js'
 import storeImage from '../assets/images/project-store.svg'
 import eventEaseImage from '../assets/images/project-event-ease.svg'
 import mangoImage from '../assets/images/project-mango.svg'
+import nibbleImage from '../assets/images/project-nibble.svg'
 import safeVaultImage from '../assets/images/project-safevault.svg'
 import eshopImage from '../assets/images/project-eshop.svg'
 import microservicesImage from '../assets/images/project-microservices.svg'
@@ -16,7 +17,8 @@ const images = {
   store: storeImage,
   'event-ease': eventEaseImage,
   mango: mangoImage,
-  safevault: safeVaultImage,
+  nibble: nibbleImage,
+  'safe-vault': safeVaultImage,
   eshop: eshopImage,
   microservices: microservicesImage,
   airline: airlineImage,
