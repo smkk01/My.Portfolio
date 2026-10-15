@@ -93,10 +93,10 @@
   {
     "id": "safe-vault",
     "title": "SafeVault",
-    "description": "SafeVault is a secure password management application built with Blazor WebAssembly and .NET 8. Store, manage, and retrieve your passwords safely.",
+    "description": "SafeVault is a learning project using ASP.NET Core 8. It offers a small HTTP API for user registration, login, record lookup, and an admin endpoint. A static registration page is served, data is stored in MySQL, and passwords are hashed with BCrypt.",
     "image": "safe-vault",
-    "technologies": ["HTML", ".NET 8"],
-    "categories": ["Blazor", ".NET"],
+    "technologies": ["HTML", ".NET 8", "MySQL", "BCrypt"],
+    "categories": ["Web API", ".NET"],
     "github": "https://github.com/smkk01/SafeVault.git",
     "live": "",
     "featured": true
