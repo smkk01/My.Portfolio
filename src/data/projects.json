@@ -47,9 +47,9 @@
   {
     "id": "nibble.web",
     "title": "Nibble",
-    "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment and Email microservices with SQL Server communicating over Azure Service Bus.",
+    "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment through Azure Service Bus.",
     "image": "nibble",
-    "technologies": ["ASP.NET Core", "Microservices"],
+    "technologies": ["Microservices","Azure Service Bus","Payment Ga"],
     "categories": ["Azure", "APP.Net CORE","Ms SQL"],
     "github": "https://github.com/smkk01/azuredevops.git",
     "live": "",
@@ -58,7 +58,7 @@
   {
     "id": "event-ease",
     "title": "Event Ease",
-    "description": "EventEase is a browser-based event management app built with Blazor WebAssembly and .NET 8. Browse events, create and edit event details, register attendees, and record attendance with check-in.",
+    "description": "EventEase is a browser-based event management app which allows users to browse events, create and edit event details, register attendees, and record attendance with check-in.",
     "image": "event-ease",
     "technologies": ["Blazor WebAssembly", ".NET 8"],
     "categories": ["Blazor", ".NET"],
