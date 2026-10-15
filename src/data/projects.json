@@ -66,6 +66,17 @@
     "featured": true
   },
   {
+    "id": "safe-vault",
+    "title": "SafeVault",
+    "description": "SafeVault is a secure password management application built with Blazor WebAssembly and .NET 8. Store, manage, and retrieve your passwords safely.",
+    "image": "safe-vault",
+    "technologies": ["HTML", ".NET 8"],
+    "categories": ["Blazor", ".NET"],
+    "github": "https://github.com/smkk01/SafeVault.git",
+    "live": "",
+    "featured": true
+  },
+  {
     "id": "student-management",
     "title": "Student Management System",
     "description": "A student management application with a React user interface connected to a Web API.",
