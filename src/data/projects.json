@@ -15,8 +15,8 @@
     "title": "E-Shop",
     "description": "An e-shop project. Further implementation details are available in the source repository.",
     "image": "eshop",
-    "technologies": ["APP.Net CORE","Angular","RabbitMQ", "CICD", "Docker","Azure"],
-    "categories": ["Full Stack","Microservices","DEVOPS"],
+    "technologies": ["ASP.NET Core","Angular","RabbitMQ", "CICD", "Docker","Azure"],
+    "categories": ["Full Stack","Microservices","Cloud",".NET"],
     "github": "https://github.com/smkk01/E-Shop.git",
     "live": "",
     "featured": true
@@ -27,7 +27,7 @@
     "description": "A shopping-focused microservices project demonstrating a service-oriented application approach.",
     "image": "microservices",
     "technologies": ["ASP.NET Core","Mongo Db", "Azure", "AKS", "ACR"],
-    "categories": ["Microservices","Kubernetes","Azure DevOps"],
+    "categories": ["Microservices","Kubernetes","Azure DevOps","Cloud",".NET"],
     "github": "https://github.com/smkk01/azuredevops.git",
     "live": "",
     "featured": true
@@ -39,7 +39,7 @@
     "description": "A serverless AWS service that manages aircraft position (POS) reports,calculates remaining flight time and arrival fuel and provides the latest processing result.",
     "image": "pos-report",
     "technologies": ["Node.js", "AWSCDK", "Lambda", "S3","DYNAMODB"],
-    "categories": ["AWS SERVERLESS", "CloudFormation", "GitHub Actions"],
+    "categories": ["AWS SERVERLESS", "CloudFormation", "GitHub Actions", "Cloud"],
     "github": "https://github.com/smkk01/POSReport.git",
     "live": "",
     "featured": true
@@ -50,7 +50,7 @@
     "description": "Airline Booking System modules over Flights, Bookings, Payments and Notifications built around .NET microservices and RabbitMQ messaging used with  Clean Architecture implementation.",
     "image": "airline",
     "technologies": ["MongoDB", "Redis", "PostgreSQL", "CQRS", "MediatR"],
-    "categories": ["Microservices", ".Net8"],
+    "categories": ["Microservices", ".Net", "Cloud"],
     "github": "https://github.com/smkk01/AirlineBookingSystem.git",
     "live": "",
     "featured": true
@@ -62,7 +62,7 @@
     "description": "E-Commerce modules over Product, Shopping Cart, Ordering, Payment through Azure Service Bus.",
     "image": "nibble",
     "technologies": [ "APP.Net CORE","Ms SQL","Stripe","Azure Service Bus"],
-    "categories": ["AzureDevOps","Payment Gateway","Microservices"],
+    "categories": ["AzureDevOps",".NET","Microservices","Cloud"],
     "github": "https://github.com/smkk01/EcommenceModule-Microservices.git",
     "live": "",
     "featured": true
@@ -85,7 +85,7 @@
     "description": "LogiTrack is a logistics software platform designed to manage inventory items and customer orders across multiple fulfillment centers.",
     "image": "logitrack",
     "technologies": ["ASP.NET Core","SQLite","JWT", "Optimization","Catching", "Entity Framework "],
-    "categories": ["Web API", ".NET 8"],
+    "categories": ["Web API", ".NET"],
     "github": "https://github.com/smkk01/InventoryHub.git",
     "live": "",
     "featured": true
@@ -96,7 +96,7 @@
     "description": "SafeVault is a learning project using ASP.NET Core 8. It offers a small HTTP API for user registration, login, record lookup, and an admin endpoint. A static registration page is served, data is stored in MySQL, and passwords are hashed with BCrypt.",
     "image": "safe-vault",
     "technologies": ["HTML", "ASP.NET Core", "MySQL", "BCrypt"],
-    "categories": ["Web API", ".NET 8"],
+    "categories": ["Web API", ".NET"],
     "github": "https://github.com/smkk01/SafeVault.git",
     "live": "",
     "featured": true
@@ -107,7 +107,7 @@
     "description": "A React and .NET product CRUD app deployed on AWS with Amplify Hosting",
     "image": "products-dashboard",
     "technologies": ["React", "AWSCDK", "DYNAMODB", "Amplify", "API Gateway", "Lambda", "Cognito"],
-    "categories": ["AWS" , ".NET"],
+    "categories": ["AWS" , ".NET","Cloud"],
     "github": "https://github.com/smkk01/CrudApp.git",
     "live": "",
     "featured": true
