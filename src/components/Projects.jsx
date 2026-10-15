@@ -55,7 +55,7 @@ function Projects({ featuredOnly = false }) {
       )}
       <div className="row g-4">
         {list.map((project, index) => (
-          <div className="col-md-6 col-xl-4" key={project.id} data-aos="fade-up" data-aos-delay={(index % 3) * 80}>
+          <div className="col-md-6 col-xl-4 d-flex" key={project.id} data-aos="fade-up" data-aos-delay={(index % 3) * 80}>
             <article className="project-card card-surface">
               <img className="project-image" src={images[project.image]} alt={`${project.title} illustration`} width="960" height="540" loading="lazy" decoding="async" fetchPriority="low" />
               <div className="project-body">
