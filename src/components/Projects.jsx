@@ -15,9 +15,11 @@ import microservicesImage from '../assets/images/project-microservices.svg'
 import airlineImage from '../assets/images/project-airline.svg'
 import studentsImage from '../assets/images/project-students.svg'
 import inventoryImage from '../assets/images/project-inventory.svg'
+import crumbImage from '../assets/images/project-crumb.svg'
 
 const images = {
   store: storeImage,
+  crumb: crumbImage,
   'event-ease': eventEaseImage,
   mango: mangoImage,
   nibble: nibbleImage,
