@@ -11,6 +11,17 @@
     "featured": true
   },
   {
+    "id": "crumb",
+    "title": "Online Bakery E-commerce",
+    "description": "A full-stack bakery storefront built with React, TypeScript, and ASP.NET Core 8. Customers can browse products, manage a cart, and place orders, while administrators manage the catalog and order statuses. Deployed on Azure with a secure JWT-protected API.",
+    "image": "crumb",
+    "technologies": ["ASP.NET Core", "React", "TypeScript"],
+    "categories": [".NET", "React","Cloud"],
+    "github": "https://github.com/smkk01/Bakery",
+    "live": "https://kind-forest-0d7595200.3.azurestaticapps.net/",
+    "featured": true
+  },
+  {
     "id": "e-shop",
     "title": "E-Shop",
     "description": "An e-shop project. Further implementation details are available in the source repository.",
