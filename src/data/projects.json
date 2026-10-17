@@ -21,6 +21,17 @@
     "live": "https://kind-forest-0d7595200.3.azurestaticapps.net/",
     "featured": true
   },
+   {
+    "id": "event-ease",
+    "title": "Event Ease",
+    "description": "EventEase is a browser-based event management app which allows users to browse events, create and edit event details, register attendees, and record attendance with check-in.",
+    "image": "event-ease",
+    "technologies": ["Blazor WebAssembly", ".NET 8"],
+    "categories": ["Blazor", ".NET"],
+    "github": "https://github.com/smkk01/EventEase.git",
+    "live": "https://smkk01.github.io/EventEase/",
+    "featured": true
+  },
   {
     "id": "e-shop",
     "title": "E-Shop",
@@ -78,18 +89,6 @@
     "live": "",
     "featured": true
   },
-  {
-    "id": "event-ease",
-    "title": "Event Ease",
-    "description": "EventEase is a browser-based event management app which allows users to browse events, create and edit event details, register attendees, and record attendance with check-in.",
-    "image": "event-ease",
-    "technologies": ["Blazor WebAssembly", ".NET 8"],
-    "categories": ["Blazor", ".NET"],
-    "github": "https://github.com/smkk01/EventEase.git",
-    "live": "https://smkk01.github.io/EventEase/",
-    "featured": true
-  },
-
    {
     "id": "logitrack",
     "title": "LogiTrack",
