@@ -10,7 +10,6 @@ function Contact() {
     mode: 'onBlur',
     shouldFocusError: true,
   })
-
   const onSubmit = (values) => {
     setSubmitted(false)
     setStorageError('')
