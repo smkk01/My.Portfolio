@@ -14,6 +14,7 @@ function Contact() {
   const onSubmit = (values) => {
     setSubmitted(false)
     setStorageError('')
+    
     try {
       saveContactMessage({
         name: values.name.trim(),
